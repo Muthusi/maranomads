@@ -1,0 +1,4 @@
+[20-Mar-2023 09:16:50 UTC] PHP Warning:  array_diff(): Expected parameter 1 to be an array, null given in /home3/muthusi1/Maranomads.muthusicreatives.co.ke/wp-content/themes/emarket/functions.php on line 127
+[20-Mar-2023 09:16:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/muthusi1/Maranomads.muthusicreatives.co.ke/wp-content/themes/emarket/functions.php on line 127
+[20-Mar-2023 10:14:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/muthusi1/Maranomads.muthusicreatives.co.ke/wp-content/plugins/sw-product-bundles/admin/model/dao.php on line 169
+[20-Mar-2023 10:14:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/muthusi1/Maranomads.muthusicreatives.co.ke/wp-content/plugins/sw-product-bundles/admin/model/dao.php on line 169
